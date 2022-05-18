@@ -1,0 +1,6 @@
+_First_8bits: CODE, 1913 0 135
+_I2C_Master_Stop: CODE, 1815 0 11
+_main: CODE, 1885 0 28
+_I2C_Master_Write: CODE, 1804 0 11
+_I2C_Master_Start: CODE, 1793 0 11
+Total: 196
